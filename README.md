@@ -126,9 +126,9 @@ Simulation and analysis of Electric Vehicle powertrain performance.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshRaj-18&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRaj-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Simulation and analysis of Electric Vehicle powertrain performance.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshRaj-18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Simulation and analysis of Electric Vehicle powertrain performance.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=GaneshRaj-18&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=GaneshRaj-18&theme=tokyonight&no-frame=true&row=1&column=7)"/>
 
 </p>
 
@@ -158,17 +158,7 @@ Simulation and analysis of Electric Vehicle powertrain performance.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshRaj-18&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -206,7 +196,7 @@ Simulation and analysis of Electric Vehicle powertrain performance.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=GaneshRaj-18&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
