@@ -1,52 +1,58 @@
-<!-- ============================== -->
-<!--        HEADER BANNER           -->
-<!-- ============================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ganesh Raj</h1>
+# ⚡ Ganesh Raj
 
-<h3 align="center">
-Electronics & Communication Engineer | Embedded Systems | Semiconductor Enthusiast | Computer Vision | Cybersecurity
-</h3>
+### Electronics & Communication Engineer • Semiconductor Enthusiast • Embedded Systems • Computer Vision • Cybersecurity
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=Designing+Embedded+Systems;Semiconductor+%7C+VLSI+Enthusiast;Computer+Vision+Developer;Cybersecurity+Learner;Building+Technology+for+Real+World+Problems"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;Semiconductor+%7C+VLSI+Enthusiast;Computer+Vision+Developer;Cybersecurity+Learner;Always+Learning+Something+New+🚀" />
+<br>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,50:0066FF,100:7B2FF7&text=WELCOME%20TO%20MY%20PROFILE&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-🎓 Electronics & Communication Engineering Graduate
+```yaml
+Name: Ganesh Raj
 
-🌱 Currently learning
+Education:
+    Electronics & Communication Engineering
 
-- Semiconductor Engineering
-- VLSI Design
-- Embedded Systems
-- Cybersecurity
-- Computer Vision
+Interested In:
+    • Semiconductor Engineering
+    • VLSI Design
+    • Embedded Systems
+    • Cybersecurity
+    • Computer Vision
+    • IoT
 
-🔭 Interested in
-
-- Semiconductor Industry
-- Embedded AI
-- Defence Technology
-- Raspberry Pi Projects
-- IoT Systems
-- Computer Vision
-
-💡 I enjoy building real-world engineering projects that combine hardware and software.
+Currently Learning:
+    • RTL Design
+    • Digital Design
+    • Python
+    • Embedded Linux
+    • Computer Vision
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Engineering Philosophy
 
-## 🔴 TerrorAlert AI
-AI-powered facial surveillance and trigger system using Raspberry Pi and OpenCV.
+> **"Technology should solve real-world problems through intelligent hardware and efficient software."**
 
-**Tech Used**
+---
+
+# 🛰 Featured Engineering Projects
+
+## 🛡 TerrorAlert AI
+
+AI-powered intelligent surveillance system capable of detecting faces and triggering alerts using Raspberry Pi.
+
+### Technologies
 
 - Raspberry Pi
 - Python
@@ -59,151 +65,119 @@ AI-powered facial surveillance and trigger system using Raspberry Pi and OpenCV.
 
 ## 📍 Child Tracking System
 
-GPS/WiFi-based child tracking system with Telegram integration.
+IoT-based child tracking system integrating ESP32 with Telegram Bot notifications.
 
-**Tech Used**
+### Technologies
 
 - ESP32
+- Embedded C
 - WiFi
 - Telegram Bot
-- Embedded Systems
 - IoT
 
 ---
 
 ## ⚡ EV Powertrain Simulation
 
-Simulation and analysis of Electric Vehicle powertrain performance.
+Simulation and analysis of an Electric Vehicle Powertrain.
 
-**Focus Areas**
+### Focus
 
-- EV Systems
-- Motor Performance
-- Energy Analysis
-- MATLAB / Simulation
-
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
-
-</p>
-
-### Hardware & Embedded
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</p>
-
-### Areas of Interest
-
-- Embedded Systems
-- IoT
-- Computer Vision
-- Semiconductor
-- VLSI
-- Cybersecurity
-- Python Development
+- Electric Vehicles
+- Power Electronics
+- Motor Characteristics
+- System Performance
 
 ---
 
-# 📊 GitHub Analytics
+# ⚙ Engineering Domains
+
+<div align="center">
+
+| Semiconductor | Embedded | Security | Vision |
+|:-------------:|:--------:|:--------:|:------:|
+| VLSI | Raspberry Pi | Cybersecurity | OpenCV |
+| RTL | ESP32 | Network Security | AI Vision |
+| Digital Design | IoT | Linux | Python |
+
+</div>
+
+---
+
+# 💻 Languages
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshRaj-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRaj-18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔧 Hardware & Platforms
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshRaj-18&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🛠 Development Tools
 
 <p align="center">
 
-<img src="[https://github-profile-trophy.vercel.app/?username=GaneshRaj-18&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=GaneshRaj-18&theme=tokyonight&no-frame=true&row=1&column=7)"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📚 Currently Exploring
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshRaj-18&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- Semiconductor Manufacturing
+- RTL Design
+- Verilog HDL
+- FPGA
+- Embedded Linux
+- Edge AI
+- Defence Technologies
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="www.linkedin.com/in/ganesh-raj05">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/ganesh-raj05/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:ganeshraj2k3@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📌 Current Focus
+# 📈 GitHub Profile
 
-✅ Semiconductor Engineering
+<div align="center">
 
-✅ VLSI Design
-
-✅ Embedded Systems
-
-✅ Cybersecurity
-
-✅ Computer Vision
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GaneshRaj-18&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshRaj-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+## 💡 "Engineering is where imagination meets precision."
 
-</h3>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7B2FF7,50:0066FF,100:00F5FF"/>
