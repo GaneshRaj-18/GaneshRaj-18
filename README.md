@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ganesh Raj
+# hey👋 its me Ganesh Raj ⚡
 
 ### Electronics & Communication Engineer • Semiconductor Enthusiast • Embedded Systems • Computer Vision • Cybersecurity
 
