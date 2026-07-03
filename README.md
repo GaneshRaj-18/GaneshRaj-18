@@ -118,7 +118,7 @@ Simulation and analysis of an Electric Vehicle Powertrain.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,blender"/>
 
 </p>
 
